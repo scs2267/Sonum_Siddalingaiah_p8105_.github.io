@@ -1,0 +1,27 @@
+---
+title: "Sonum Siddalingaiah - Homework 4 Website!!!!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Introduction to Sonum Siddalingaiah
+
+<img src="prof_headshot.jpg" style="width:65%">
+
+I am a second year MPH student at Mailman. If you click the following links, you can learn more about my academic and professional experience:
+
+* [Professional Experience](professional_experience.html)
+
+Or see some fun plots I've made:
+
+* [Plots Dashboard](dashboard.html)
+
+# Relevant Links
+
+* [Github](https://github.com/scs2267/Sonum_Siddalingaiah.github.io.git)
+* [Email](scs2267@cumc.columbia.edu)
+* [LinkedIn](https://linkedin.com/in/sonum-siddalingaiah-620161282)
+

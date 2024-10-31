@@ -1,0 +1,53 @@
+---
+title: "Academic and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Academic Background
+
+I graduated from the College of William and Mary in 2023 with a Bachelors of Arts in Psychology and a minor in Public Health. As someone who is passionate about community health work, I wanted to gain more technical skills to address the needs of at risk populations. This lead me to pursue a Master's Degree in Public Health at Mailman, where I intend to complete a degree in Health Policy and Management with a certificate in Chronic Disease Epidemiology. 
+
+
+
+
+# Professional Background
+
+
+
+### Here is my resume that highlights some of my work experiences:
+
+#### City Harvest: New York, NY
+•	Created an evidence base documenting current research on food justice related programs 
+
+•	Attended coalition meetings and compiled documents for policy briefs
+    
+#### Community Health Advocates: New York, NY
+•	Conducted research on Medicaid eligibility for dental care to inform policy change for all New York City residents that use Medicaid
+
+•	Applied for grants to provide low-income residents with funding assistance to cover vital medical procedures
+    
+#### FreshRx Internship: Lynchburg, VA
+•	Developed organizational materials to optimize employee training at a nonprofit organization
+
+•	Assisted the organization in running nutrition classes for low income individuals 
+    
+#### Social Justice Policy Initiative: Newport News, VA
+
+•	Compiled quantitative and qualitative data on courtroom interactions before and after the Covid-19 eviction moratorium to document disparities in evictions by observing unlawful detainer cases at the Newport News District Courthouse
+
+
+
+
+
+
+
+
+##### Link back to home page:
+
+* [Home](index.html)
+
+

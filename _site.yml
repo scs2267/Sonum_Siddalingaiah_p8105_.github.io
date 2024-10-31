@@ -1,0 +1,18 @@
+name: "Sonum Siddalingaiah - Homework 4 Website!!!!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Professional Experience"
+      href: professional_experience.html
+    - text: "Plots Dashboard!!!"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<scs2267@cumc.columbia.edu>
+    - icon: fa-linkedin fa-lg
+      href: https://linkedin.com/in/sonum-siddalingaiah-620161282
+    - icon: fa-github fa-lg
+      href: https://github.com/scs2267/Sonum_Siddalingaiah.github.io.git
+output:
+  html_document:
+    theme: cerulean
